@@ -37,4 +37,5 @@ Included files:
 
 COMPILATION/EXECUTION:
 ----------------------
-This program is designed to be compiled and executed using an Intel x86 32 bit assembly environment.
+This program is designed to be compiled and executed using an Intel x86 32-bit assembly environment with the Irvine32 library.
+See https://www.asmirvine.com/index7th.htm for setup instructions.
