@@ -23,7 +23,7 @@ The program can be used using only the arrow keys for navigation (except for qui
 
 RECOMMENDING CONSOLE SETTINGS:
 ------------------------------
-For 1080p displays use the following settings:
+For best results use the following settings (right click on top of console window -> properties):
 	- Use legacy console
 	- 119 x 60 console dimensions
 	- Raster fonts, size 12x16
